@@ -1,11 +1,26 @@
+### Main Packages
+```
+npm install --save redux react-redux react-router-dom redux-form redux-promise redux-thunk axios
+
+```
+
 ### Optional Packages
 ```
 npm i --save react-sparklines@1.6.0 
-npm install --save redux-thunk
+
 
 npm i --save gsap
 npm i --save react-gsap-enhancer
 npm i --save gsap-promise
+
+npm install --save prop-types
+npm install --save escape-string-regexp
+npm install --save sort-by
+npm install --save form-serialize
+npm install --save react-icons
+npm install --save react-loading
+npm install --save react-modal
+npm install --save redux-logger
 ```
 ---
 #### React Sparklines 
@@ -55,3 +70,28 @@ export default GSAP()(MyComponent)
 
 #### GSAP Promise
 
+---
+
+#### PropTypes
+
+PropTypes is a package that lets us define the data type we want to see right from the get-go and warn us during development if the prop that's passed to the component doesn't match what is expected.
+
+---
+
+#### escape-string-regexp
+
+Escape RegExp special characters
+
+---
+
+#### Sort-By
+
+A utility to create comparator functions for the native Array.sort() in both node and the browser. Allows for sorting by multiple properties.
+
+---
+
+#### Form-serialize
+
+serialize form fields to submit a form over ajax
+
+---
