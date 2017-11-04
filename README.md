@@ -21,6 +21,7 @@ npm install --save react-icons
 npm install --save react-loading
 npm install --save react-modal
 npm install --save redux-logger
+npm install --save moment react-moment
 ```
 ---
 #### React Sparklines 
