@@ -23,6 +23,7 @@ npm install --save react-modal
 npm install --save redux-logger
 npm install --save moment react-moment
 npm install --save uuid
+npm install --save uuid
 ```
 ---
 #### React Sparklines 
